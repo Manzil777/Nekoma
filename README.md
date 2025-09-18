@@ -10,19 +10,6 @@
   <img src="media/colab-logo.png" width="120" alt="Google Colab">
 </div>
 
-## 🙌 Special Thanks
-This project was made possible with support from Google's developer programs:
-- **Google Cloud Credits** ☁️
-- **100 Compute Units** 💻 from Colab
-- **Vertex AI Sprint** mentorship 🧠
-
-## 🌍 Community Recognition
-
-<div align="center">
-  <a href="https://medium.com/google-developer-experts/jan-2025-ai-community-activity-highlights-and-achievements-64c233e7a194" target="_blank">
-    <img src="https://img.shields.io/badge/Featured%20on-Google%20AI%20Community%20Blog-%234285f4?style=for-the-badge&logo=google" alt="Google AI Community Feature">
-  </a>
-</div>
 
 ## 🚀 Features
 
