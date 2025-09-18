@@ -7,7 +7,6 @@
 <div align="center">
   <h3>Supported By</h3>
   <img src="media/google-ai-logo.png.png" width="120" alt="Google Cloud">
-  <img src="media/colab-logo.png" width="120" alt="Google Colab">
 </div>
 
 
