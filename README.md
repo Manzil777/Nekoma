@@ -2,10 +2,9 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app.streamlit.app)
 ![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-Apache-green)
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzM1ZHdscG85MGVjdWY5dm0xZzY5bWIzdWY4cnFhODRlaWlwZjkxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cgso6IBnXBlqg4oNnn/giphy.gif" width="200" alt="Thank you GIF">
   <h3>Supported By</h3>
   <img src="media/google-ai-logo.png.png" width="120" alt="Google Cloud">
   <img src="media/colab-logo.png" width="120" alt="Google Colab">
