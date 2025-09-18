@@ -24,8 +24,6 @@ This project was made possible with support from Google's developer programs:
   </a>
 </div>
 
-📖 [Read the Feature](https://medium.com/google-developer-experts/jan-2025-ai-community-activity-highlights-and-achievements-64c233e7a194)  
-
 ## 🚀 Features
 
 | Feature               | Description                                                                 |
