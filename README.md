@@ -1,8 +1,7 @@
 # 🤖 AI Learning Buddy 
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app.streamlit.app)
-![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)
-![License](https://img.shields.io/badge/license-Apache-green)
+<p align="center"><img src="https://img.shields.io/badge/Licence-Apache-Green" alt="shields"><img src="https://img.shields.io/badge/Flowcode-Hackathon-Blue" alt="shields"></p>
 
 <div align="center">
   <h3>Supported By</h3>
