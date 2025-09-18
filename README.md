@@ -22,8 +22,8 @@
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/your-username/AI-Learning-Buddy.git
-cd AI-Learning-Buddy
+git clone https://github.com/your-username/Nekoma.git
+cd Nekoma
 pip install -r requirements.txt
 # Add API key in .env
-streamlit run app.py
+streamlit run interactive_learning_buddy.py
